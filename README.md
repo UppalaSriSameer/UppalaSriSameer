@@ -40,5 +40,3 @@ Did you hear about the statistician who drowned in a river? It was three feet de
 
 # 👀 Profile Guests:
 [![](https://visitcount.itsvg.in/api?id=UppalaSriSameer&icon=5&color=12)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=OnkarMudegol&icon=5&color=12)](https://visitcount.itsvg.in)
-
