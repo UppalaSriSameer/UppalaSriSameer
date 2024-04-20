@@ -2,7 +2,7 @@
 
 I'm Uppala Sri Sameer, just your regular data science fan, trying to make sense of all those numbers and codes without summoning any scary spreadsheet creatures. Yup, I'm that second-year student still figuring out if "pandas" means cuddly bears or some fancy Python thingy (hint: it's the fancy stuff).
 You know you're deep into the data world when your idea of a fun Friday night involves binge-watching machine learning videos instead of the latest Netflix shows. But hey, who needs all that drama when you've got data to play with, right?
-I'm currently cruising through my second year of data science studies, just about understanding enough to take a few risks here and there. You might catch me trying to explain linear regression to my cat, who's more into chasing shadows than understanding fancy math.
+I'm currently cruising through my second year of data science studies, just about understanding enough to take a few risks here and there. You might catch me trying to explain linear regression to my cat, who's more into chasing shadows than understanding fancy math. 
 
 ## About Me
 🎓 2nd year Data Science student at Lovely Professional University  
